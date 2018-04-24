@@ -40,3 +40,4 @@ A pesar de todo, debemos tener en cuenta que existen una serie de  **problemas o
 
 [Referencias](https://github.com/OscarVegaValadez/ProyectoIntegrador/blob/master/referencias.md)
 [Opiniones](https://github.com/OscarVegaValadez/ProyectoIntegrador/blob/master/opinion.md)
+[Wiki](https://github.com/OscarVegaValadez/ProyectoIntegrador/wiki)
