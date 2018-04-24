@@ -1,4 +1,5 @@
-# ProyectoIntegrador
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5136267.png" width="693" height="76" alt="Proyecto Integrador" /></a>
+
 Criptomonedas
 
 ## ¿Que son las criptomonedas?
