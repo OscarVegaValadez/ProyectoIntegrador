@@ -38,6 +38,6 @@ A pesar de todo, debemos tener en cuenta que existen una serie de  **problemas o
 
 ![](https://viralchop.com/wp-content/uploads/2017/12/bitcoin-futures-stockmarket.gif)
 
-[Referencias](https://github.com/OscarVegaValadez/ProyectoIntegrador/blob/master/referencias.md)
-[Opiniones](https://github.com/OscarVegaValadez/ProyectoIntegrador/blob/master/opinion.md)
+[Referencias](https://github.com/OscarVegaValadez/ProyectoIntegrador/blob/master/referencias)
+[Opiniones](https://github.com/OscarVegaValadez/ProyectoIntegrador/blob/master/opinion)
 [Wiki](https://github.com/OscarVegaValadez/ProyectoIntegrador/wiki)
