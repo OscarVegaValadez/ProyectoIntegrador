@@ -1,6 +1,6 @@
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5136267.png" width="693" height="76" alt="Proyecto Integrador" /></a>
 
-![](file:///home/estudiante/Descargas/Criptomondas.jpg)
+![](https://lh3.googleusercontent.com/nInAea83iDAwE73FJjP4WBlWLHJ_RnjWCyLUiBDe8xUKKcQ6R0tZ87ENiDM8FG6_cT9qM1LEuUaVG9UI=w530-h298-n-rw)
 
 Criptomonedas
 
