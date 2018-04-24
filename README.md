@@ -1,8 +1,8 @@
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5136267.png" width="693" height="76" alt="Proyecto Integrador" /></a>
 
-![](https://lh3.googleusercontent.com/nInAea83iDAwE73FJjP4WBlWLHJ_RnjWCyLUiBDe8xUKKcQ6R0tZ87ENiDM8FG6_cT9qM1LEuUaVG9UI=w530-h298-n-rw)
+![](file:///home/estudiante/Descargas/Criptomondas.jpg)
 
-Criptomonedas
+# Criptomonedas
 
 ## ¿Que son las criptomonedas?
 Una criptomoneda, criptodivisa (del inglés cryptocurrency) o criptoactivo es un medio digital de intercambio. La primera criptomoneda que empezó a operar fue el bitcoin en 20094, desde entonces, han aparecido muchas otras con diferentes características y protocolos como Litecoin, Ethereum, Ripple, Dogecoin.
@@ -37,3 +37,6 @@ A pesar de todo, debemos tener en cuenta que existen una serie de  **problemas o
 -   Como si nombre indica, las monedas virtuales solo existen de forma digital. Por ello, si no realizamos una copia de seguridad del wallet o billetera de nuestras criptomonedas,  **corremos el riesgo de perder todo el dinero**, el cual desaparecía del mercado de las criptodivisas.
 
 ![](https://viralchop.com/wp-content/uploads/2017/12/bitcoin-futures-stockmarket.gif)
+
+[Referencias](https://github.com/OscarVegaValadez/ProyectoIntegrador/blob/master/referencias.md)
+[Opiniones](https://github.com/OscarVegaValadez/ProyectoIntegrador/blob/master/opinion.md)
